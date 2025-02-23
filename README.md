@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi I'm ilias</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center" style="color:#FF0000">A passionate developer</h3>
 
 - I’m currently working on [making a Virtual Machine in C](https://github.com/iliasreg/vmi)
 - I’m currently learning **VR and AR**
